@@ -2,31 +2,58 @@
   "Technologies": [
     {
       "Id": "9659959d-871d-4d9f-b8fc-7309596d5df4",
-      "Name": "Timlin",
+      "Name": "Timlin Radio",
       "Subjects": []
     }
   ],
   "Categories": [
     {
       "Id": "85e62ebe-1e24-4459-b45d-1df2623b7729",
-      "Name": "Timlin Category",
+      "Name": "Timlin Series",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Github",
+      "Source": "Timlin",
       "SubCategories": [
         {
           "Id": "d4717ae0-c058-4739-bed3-c313017868e2",
-          "Name": "Timlin Sub Cat",
+          "Name": "Timlin Blog Posts",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Github",
+          "Source": "Timlin",
+          "SubCategories": []
+        },
+        {
+          "Id": "DF203574-0063-408D-B191-D87311F20818",
+          "Name": "Center of Excellence",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Timlin",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "85e62ebe-1e24-4459-b45d-1df2623b7729",
+      "Name": "Community Resources",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Timlin",
+      "SubCategories": [
+        {
+          "Id": "C28513BC-2F06-4CD1-8056-C7F5655C6305",
+          "Name": "Microsoft 365 & SharePoint Community - PnP",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Timlin",
           "SubCategories": []
         }
       ]
     }
-  
   ],
   "Audiences": [
     {

@@ -1,18 +1,52 @@
+{
 [
     {
-    "Id":"874c243e-09a9-429b-b934-c68a255df199",
-    "Title":"Timlin",
-    "Image":"images/playlists/excel_quick_start.png",
-    "LevelId":"f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-    "AudienceId":"b704880e-1289-48fe-80f7-a8acacf9bc1b",
-    "TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
-    "SubjectId":"",
-    "Source":"Microsoft",
-    "CatId":"d4717ae0-c058-4739-bed3-c313017868e2",
-    "Description":"Get up and running with Timlin.",
-    "StatusTagId":"",
-    "StatusNote":"",
-    "Assets":
-        ["9207116b-166c-4bc6-9aba-185dc6447677"]
+        "Id":"874c243e-09a9-429b-b934-c68a255df199",
+        "Title":"Timlin Blog Posts",
+        "Image":"images/playlists/excel_quick_start.png",
+        "LevelId":"f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+        "AudienceId":"b704880e-1289-48fe-80f7-a8acacf9bc1b",
+        "TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
+        "SubjectId":"",
+        "Source":"Timlin",
+        "CatId":"d4717ae0-c058-4739-bed3-c313017868e2",
+        "Description":"Get up and running with Timlin.",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets":
+            ["9207116b-166c-4bc6-9aba-185dc6447677"]
+    },
+    {
+        "Id":"9CF4EC77-29EE-416F-8BC3-3DFB2B74657D",
+        "Title":"Timlin Center of Excellence",
+        "Image":"images/playlists/items.png",
+        "LevelId":"a5522c84-14c5-4b36-b28e-9c6364837c98",
+        "AudienceId":"28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
+        "TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
+        "SubjectId":"Our SharePoint Center of Excellence Managed Services support, administration, training, governance, architecture, and strategy service are all designed to ensure your users and IT staff have top-quality support whenever they interact with SharePoint applications.",
+        "Source":"Timlin",
+        "CatId":"DF203574-0063-408D-B191-D87311F20818",
+        "Description":"",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets":
+            []
+    },
+    {
+        "Id":"BBB1020E-1746-430F-A85E-2E25B6B861B7",
+        "Title":"PNP Community",
+        "Image":"images/playlists/work_remotely.png",
+        "LevelId":"a5522c84-14c5-4b36-b28e-9c6364837c98",
+        "AudienceId":"28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
+        "TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
+        "SubjectId":"Channel for Microsoft 365 and SharePoint Patterns and Practices (PnP) videos and recordings. More details around PnP initiative is available from http://aka.ms/sppnp. These videos are weekly webcasts, demo videos, tutorials and other videos release by the PnP initiative. Classic SharePoint PnP initiative is in progress to get extended as Microsoft 365 PnP, including also non-dev topics.",
+        "Source":"YouTube",
+        "CatId":"C28513BC-2F06-4CD1-8056-C7F5655C6305",
+        "Description":"",
+        "StatusTagId":"",
+        "StatusNote":"",
+        "Assets":
+            []
     }
 ]
+}
