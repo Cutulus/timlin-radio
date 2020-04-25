@@ -1,12 +1,34 @@
 [
   {
     "Id": "9207116b-166c-4bc6-9aba-185dc6447677",
+    "Title": "Balancing Security and Productivity in Microsoft 365 During Times of Crisis - Part 2",
+    "Description": "In our first blog of this series, we discussed how entitlement management in Azure Active Directory (Azure AD) Identity Governance creates Access Packages to control the scope and duration of access to groups, applications, and SharePoint sites. The two additional primary tools designed to control and audit access to company resources include Access Reviews and…",
+    "Url": "https://www.timlinenterprises.com/balancing-security-and-productivity-in-microsoft-365-during-times-of-crisis-part-2?",
+    "TechnologyId": "9659959d-871d-4d9f-b8fc-7309596d5df4",
+    "SubjectId": "",
+    "Source": "Timlin",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "D2300D7C-BEE8-44EA-9440-B2243D143004",
+    "Title": "Microsoft Teams vs. Zoom: Feature Comparison",
+    "Description": "For those using Zoom, hopefully you are carefully reconsidering your use based on the recent security concerns exposed. In this blog, I’ll review the features of Zoom relative to Teams to make sure users are aware of what they get and are giving up with each platform in the event they could take advantage of features that allow them to communicate and ...",
+    "Url": "https://www.timlinenterprises.com/microsoft-teams-vs-zoom/?",
+    "TechnologyId": "9659959d-871d-4d9f-b8fc-7309596d5df4",
+    "SubjectId": "",
+    "Source": "Timlin",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9207116b-166c-4bc6-9aba-185dc6447677",
     "Title": "Timlin Asset",
     "Description": "",
     "Url": "https://www.timlinenterprises.com/how-to-use-multi-choice-people-picker-fields-with-microsoft-flow-approvals?",
     "TechnologyId": "9659959d-871d-4d9f-b8fc-7309596d5df4",
     "SubjectId": "",
-    "Source": "Microsoft",
+    "Source": "Timlin",
     "StatusTagId": "",
     "StatusNote": ""
   }

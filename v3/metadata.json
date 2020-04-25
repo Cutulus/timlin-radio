@@ -38,7 +38,7 @@
     {
       "Id": "85e62ebe-1e24-4459-b45d-1df2623b7729",
       "Name": "Community Resources",
-      "Image": "",
+      "Image": "Microsoft 365 Community Resources",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Timlin",
@@ -163,6 +163,7 @@
     "https://support.office.com",
     "https://timlinradio.blob.core.windows.net/timlin-radio/",
     "https://www.timlinenterprises.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://www.youtube.com"
   ]
 }
